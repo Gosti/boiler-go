@@ -1,11 +1,11 @@
 # Boiler-go
 Simple code boiler-plate in Go
 
-###hello_world
+###Hello_world
 A simple Hello word program
 
-###http_server
+###Http_server
 Serve every file inside the www/ directory
 
-###rest
+###Rest
 REST server (only get and post) add and get value from a map[string]string (no backup)
